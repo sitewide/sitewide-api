@@ -1,0 +1,10 @@
+########################################################################################
+# List of patterns for Git to ignore
+########################################################################################
+
+build
+
+# OpenAPI generator build artifiacts
+
+.openapi-generator-ignore
+.openapi-generator/
